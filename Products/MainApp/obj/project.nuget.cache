@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "zS8QsdTnX28=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murod\\Desktop\\exam.25.04\\Products\\MainApp\\MainApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murod\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\murod\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\murod\\.nuget\\packages\\npgsql\\10.0.2\\npgsql.10.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\murod\\Desktop\\exam.25.04\\Products\\MainApp\\MainApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\murod\\Desktop\\exam.25.04\\Products\\MainApp\\MainApp.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
