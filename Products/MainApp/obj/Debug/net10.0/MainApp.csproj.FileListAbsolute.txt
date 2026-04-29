@@ -21,3 +21,4 @@ C:\Users\murod\Desktop\exam.25.04\Products\MainApp\obj\Debug\net10.0\refint\Main
 C:\Users\murod\Desktop\exam.25.04\Products\MainApp\obj\Debug\net10.0\MainApp.pdb
 C:\Users\murod\Desktop\exam.25.04\Products\MainApp\obj\Debug\net10.0\MainApp.genruntimeconfig.cache
 C:\Users\murod\Desktop\exam.25.04\Products\MainApp\obj\Debug\net10.0\ref\MainApp.dll
+C:\Users\murod\Desktop\exam.25.04\Products\MainApp\obj\Debug\net10.0\MainApp.sourcelink.json

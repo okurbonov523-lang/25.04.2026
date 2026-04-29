@@ -81,5 +81,20 @@ public class ProductService
         }
     }
 
+    // public void GetProductsAbovePrice(decimal price)
+    // {
+    //     using var connection = new NpgsqlConnection(connectionString);
+    // connection.Open();
+
+    // var sql = "select * from products where price > @price";
+
+    // using var command = new NpgsqlCommand();
+    // using var reader = command.ExecuteReader();
+
+    //     while (reader.Read())
+    //     {
+    //         var pr = new Products
+    //     }
+    // }
 
 }

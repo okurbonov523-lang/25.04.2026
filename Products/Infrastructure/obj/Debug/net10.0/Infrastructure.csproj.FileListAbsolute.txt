@@ -13,3 +13,4 @@ C:\Users\murod\Desktop\exam.25.04\Products\Infrastructure\obj\Debug\net10.0\Infr
 C:\Users\murod\Desktop\exam.25.04\Products\Infrastructure\obj\Debug\net10.0\refint\Infrastructure.dll
 C:\Users\murod\Desktop\exam.25.04\Products\Infrastructure\obj\Debug\net10.0\Infrastructure.pdb
 C:\Users\murod\Desktop\exam.25.04\Products\Infrastructure\obj\Debug\net10.0\ref\Infrastructure.dll
+C:\Users\murod\Desktop\exam.25.04\Products\Infrastructure\obj\Debug\net10.0\Infrastructure.sourcelink.json
